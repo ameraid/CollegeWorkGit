@@ -1,3 +1,6 @@
+*{
+font-family:Poppins;
+}
 .container-fluid{
 padding:0px;
 background-image:url(bgc.png);
@@ -156,4 +159,37 @@ font-size:130%;
 height:70%;
 width:70%;
 padding:2%;
+}
+.footer-text{
+color:white
+}
+.footer-text-alt{
+    color:white;
+    font-size:80%;
+    }
+.footer-text-major{
+color:white;
+font-size:170%;
+font-weight:500;
+}
+.footer-text:hover{
+color:orange;
+text-decoration:underline;
+}
+.input-red{
+background-color:#f8444c;
+border:0px;
+border-radius:0%;
+}
+.input{
+    border:0px;
+    border-radius:0%;    
+}
+.button{
+background-color:black;
+border-radius:4%;
+padding:2%;
+margin-top:2%;
+border-color:white;
+border:3px solid;
 }
