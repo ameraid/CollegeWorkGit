@@ -1,0 +1,159 @@
+.container-fluid{
+padding:0px;
+background-image:url(bgc.png);
+background-repeat:no-repeat;
+background-size:cover;
+}
+.image-background{
+    background-image:url(bgc.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.navbar {
+padding:0px;
+}
+.img-padding{
+padding-left:6%;
+padding-top:2%;
+padding-bottom:2%;
+}
+.navbar-text-item{
+    float: left;
+    color:white;
+    font-size:100%;
+    padding-top:4%;
+    padding-left:5%;
+    font-weight:500;
+}
+.navbar-text-item1{
+color:white;    
+}
+hr{
+    border-top: 1px solid #ffffff;
+    opacity:100;
+}
+.main-text{
+float:left;
+padding-left:25%;
+color:white;
+font-weight:300;
+font-size:120%;
+}
+h1{
+font-size:250%;
+font-weight:800;
+margin-top:15%;
+}
+.image-nav{
+padding-top:13%;
+}
+.image-nav1{
+    padding-top:13%;
+    padding-left:15%;
+    }
+.block1{
+height:100px;
+width:170px;
+background-color:#287cfc;
+padding-left:2%;
+color:white;
+margin-top:55%;
+}
+.block2{
+    height:100px;
+    width:170px;
+    background-color:#ffc41c;
+    padding-left:2%;
+    color:white;
+    margin-top:5%;
+    margin-bottom:5%;
+    
+}
+.block3{
+    height:100px;
+    width:170px;
+    background-color:#38bccc;
+    padding-left:2%;
+    color:white;
+    margin-top:55%;
+    margin-left:-55%;
+    }
+.block4{
+        height:100px;
+        width:170px;
+        background-color:#f8444c;
+        padding-left:2%;
+        color:white;
+        margin-top:5%;
+        margin-left:-55%;
+        }
+.blue{
+background-color:#287cfc;
+}
+.yellow{
+background-color:#ffc41c;
+    }
+.white{
+background-color:#fff4e4;
+}
+.teal{
+    background-color:#38bccc;
+}
+.list-text{
+color:white;
+font-size:130%;
+font-weight:500;
+}
+.list-text-smaller{
+    color:white;
+    text-align:left;
+    float:left;
+    margin-left:-15%;
+    }
+ul{
+    list-style: none;
+}
+li{
+padding-top:5%;
+}
+li:hover{
+color:orange;
+}
+h2{
+padding-top:3%;
+padding-bottom:5%;
+font-size:140%;
+}
+.text-all{
+margin-top:11%;
+text-decoration:underline;
+}
+.text-all1{
+    margin-top:9%;
+    text-decoration:underline;
+}
+.news{
+    padding-top:5%;
+    padding-bottom:5%;
+    font-size:180%;
+}        
+.image-secondary{
+float:left;
+padding-top:3%;
+padding-bottom:3%;
+padding-left:6%;
+}
+.expo-name{
+color:#f8444c;
+font-size:130%;
+}
+.date{
+    color:#f8444c;
+    font-size:110%;
+    padding-top:7%;
+}
+.image-limit{
+height:70%;
+width:70%;
+padding:2%;
+}
